@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @RoniqueRicketts
 - 👀 I’m interested in Software Development.
 - 🌱 I’m currently learning Django.
-- 💞️ I’m looking to collaborate on paid projects with the following stack, React, React Native, Remixjs, Node, Expressjs, DynamoDB, or MongoDB
-- 📫 How to reach me @niq_rick on Instagram, @RoniqueRicketts on twitter. 
+- 💞️ I’m looking to collaborate on paid projects with the following stack, React, React Native, Remix, Node, Express, MySQL, DynamoDB, or MongoDB. I'm also AWS Savvy. 
+- 📫 How to reach me @niq_rick on Instagram. 
 
 <!---
 RoniqueRicketts/RoniqueRicketts is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
