@@ -1,12 +1,12 @@
-# Hi there! 👋 I'm a Node.js Developer
+# Hi there! 👋 I'm a Software Developer
 
 ## 💻 About Me
-Passionate Node.js Developer with extensive experience building robust web and mobile applications across medical, SaaS, and e-commerce domains. With over 10,000 hours of project development, I specialize in creating scalable and efficient software solutions.
+Passionate Software Developer with extensive experience building robust web and mobile applications across medical, SaaS, and e-commerce domains. With over 10,000 hours of project development, I specialize in creating scalable and efficient software solutions.
 
 ## 🚀 Technologies & Skills
 
 ### Backend
-![Node.js](https://nodejs.org/en)
+![Link Node.js](https://nodejs.org/en)
 ![Express.js](https://expressjs.com)
 ![PostgreSQL](https://www.postgresql.org)
 ![DynamoDB](https://aws.amazon.com/dynamodb)
