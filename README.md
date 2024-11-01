@@ -6,7 +6,7 @@ Passionate Software Developer with extensive experience building robust web and 
 ## 🚀 Technologies & Skills
 
 ### Backend
-![Link Node.js](https://nodejs.org/en)
+![Node.js](https://nodejs.org/en)
 ![Express.js](https://expressjs.com)
 ![PostgreSQL](https://www.postgresql.org)
 ![DynamoDB](https://aws.amazon.com/dynamodb)
