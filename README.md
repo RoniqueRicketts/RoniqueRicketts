@@ -1,8 +1,48 @@
-- 👋 Hi, I’m @RoniqueRicketts
-- 👀 I’m interested in Software Development.
-- 🌱 I’m currently learning Django.
-- 💞️ I’m looking to collaborate on paid projects with the following stack, Remix, Express, MySQL, DynamoDB, or MongoDB. I'm also AWS Savvy. 
-- 📫 How to reach me @niq_rick on Instagram. 
+# Hi there! 👋 I'm a Node.js Developer
+
+## 💻 About Me
+Passionate Node.js Developer with extensive experience building robust web and mobile applications across medical, SaaS, and e-commerce domains. With over 10,000 hours of project development, I specialize in creating scalable and efficient software solutions.
+
+## 🚀 Technologies & Skills
+
+### Backend
+![Node.js](https://nodejs.org/en)
+![Express.js](https://expressjs.com)
+![PostgreSQL](https://www.postgresql.org)
+![DynamoDB](https://aws.amazon.com/dynamodb)
+
+### Frontend
+![React](https://react.dev)
+![React Native](https://reactnative.dev)
+![Remix](https://remix.run)
+![TailwindCSS](https://tailwindui.com)
+
+### Cloud & DevOps
+![AWS](https://aws.amazon.com)
+![Elastic Beanstalk](https://aws.amazon.com/elasticbeanstalk)
+![AWS Lambda](https://aws.amazon.com/lambda)
+
+### Tools & Platforms
+![GitHub](https://github.com)
+![Stripe](https://stripe.com)
+![WordPress](https://wordpress.com)
+![Google APIs](https://developers.google.com)
+
+## 💼 Professional Experience
+### Ricketts Technologies Ltd
+- Developed cutting-edge applications in medical, SaaS, and e-commerce sectors
+- Engineered scalable solutions using modern web technologies
+- Implemented complex backend systems with advanced cloud integrations
+
+## 📊 Project Stats
+- 🕒 **10,000+ hours** of professional development experience
+- 🛠 Specialized in full-stack JavaScript development
+- 🌐 Expert in building cross-platform applications
+
+## 🤝 Let's Connect!
+- 🔗 ![LinkedIn](https://www.linkedin.com/in/ronique-ricketts/)
+- 🌐 ![Website](https://rickettstech.com)
+
 
 <!---
 RoniqueRicketts/RoniqueRicketts is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
