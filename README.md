@@ -6,15 +6,15 @@ Passionate Software Developer with extensive experience building robust web and 
 ## 🚀 Technologies & Skills
 
 ### Backend
-![Node.js]([https://nodejs.org/en](https://www.svgrepo.com/show/303360/nodejs-logo.svg)
-![Express.js]([https://expressjs.com](https://w7.pngwing.com/pngs/846/87/png-transparent-mean-solution-stack-express-js-node-js-javascript-github-text-trademark-logo-thumbnail.png)
-![PostgreSQL]([https://www.postgresql.org](https://www.postgresql.org/media/img/about/press/elephant.png)
-![DynamoDB]([https://aws.amazon.com/dynamodb](https://upload.wikimedia.org/wikipedia/commons/f/fd/DynamoDB.png)
+![Node.js](https://www.svgrepo.com/show/303360/nodejs-logo.svg)
+![Express.js](https://w7.pngwing.com/pngs/846/87/png-transparent-mean-solution-stack-express-js-node-js-javascript-github-text-trademark-logo-thumbnail.png)
+![PostgreSQL](https://www.postgresql.org/media/img/about/press/elephant.png)
+![DynamoDB](https://upload.wikimedia.org/wikipedia/commons/f/fd/DynamoDB.png)
 
 ### Frontend
-![React]([https://react.dev](https://reactnative.dev/Home/Logo)
-![React Native](https://reactnative.dev](https://reactnative.dev/Home/Logo)
-![Remix](https://remix.run](https://remix.run/remix-v1.jpg)
+![React](https://reactnative.dev/Home/Logo)
+![React Native](https://reactnative.dev/Home/Logo)
+![Remix](https://remix.run/remix-v1.jpg)
 ![TailwindCSS](https://cdn.icon-icons.com/icons2/2699/PNG/512/tailwindcss_logo_icon_170649.png)
 
 ### Cloud & DevOps
